@@ -10,3 +10,4 @@ pdfminer.six
 bs4
 sentence_transformers
 chromadb
+streamlit_chat
